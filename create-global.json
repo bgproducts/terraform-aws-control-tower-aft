@@ -1,0 +1,11 @@
+{
+  "GlobalTableName": "aft-backend-017528860292",
+  "ReplicationGroup": [
+    {
+      "RegionName": "us-east-1"
+    },
+    {
+      "RegionName": "us-east-2"
+    }
+  ]
+}
